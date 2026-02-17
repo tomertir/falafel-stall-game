@@ -1,6 +1,6 @@
 # Falafel Stall Game 
 
-A time-management cooking game written in Python, built as part of an Object-Oriented Programming course at Ben-Gurion University.
+A time-management cooking game written in Python, built as part of a Introduction to Computer Science in Pythoncourse at Ben-Gurion University.
 
 ## Overview
 
@@ -152,4 +152,4 @@ Insert ingredients:
 
 ## Course
 
-Object-Oriented Programming — Ben-Gurion University of the Negev
+Introduction to Computer Science in Python — Ben-Gurion University of the Negev
